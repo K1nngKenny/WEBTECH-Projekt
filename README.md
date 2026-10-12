@@ -6,6 +6,6 @@
 - TechStack
 -   Backend:
 -   Frontend:
--   Datenbank
+-   Datenbank:
 
 - Milestone (M1)
